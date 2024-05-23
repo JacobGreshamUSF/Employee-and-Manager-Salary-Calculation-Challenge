@@ -1,4 +1,4 @@
-U59555732 
+//U59555732 
 // Define the Employee class
 class Employee {
     constructor(name, salary) {
